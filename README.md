@@ -1,3 +1,3 @@
-# CoinFast-Smart-Contract
-<a href="https://github.com/CoinFast/CoinFastShares-Smart-Contract/blob/master/CoinFastShares(crowdsale).sol">CoinFast(token).sol</a>
+# CoinFast-Token-Contract
+<a href="https://github.com/CoinFast/CoinFast-Token-Contract/blob/master/CoinFast(crowdsale).sol">CoinFast(token).sol</a>
 
